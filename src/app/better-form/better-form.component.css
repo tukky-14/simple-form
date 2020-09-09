@@ -1,6 +1,6 @@
-.ng-valid:not(form) {
+.input-valid {
   border-bottom: 2px solid green;
 }
-.ng-invalid:not(form) {
+.input-invalid {
   border-bottom: 2px solid red;
 }
